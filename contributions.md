@@ -6,9 +6,9 @@
 |---|---|---|---|
 | Life N Chikomo| N02640802Q | Group-Application-4|  Research|
 | Tinashe N Mutsvigi| N02645041Y | Tinashe789 | research |
-| Tatenda L Takaendisa| N02640628E | Leeroy-03 | Applications of containers |
+| Tatenda L Takaendisa| N02640628E | Leeroy-03 | Application |
 | Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Applicationsof containers|
-| Member 5| To be filled | To be filled | To be filled |
+| Kabheki Ratidzai E| N02641287W | MsTee-3352 | Containers vs Virtual Machines |
 | Member 6| To be filled | To be filled | To be filled |
 | Member 7| To be filled | To be filled |  To be filled|
 | Member 8| To be filled | To be filled | To be filled |
