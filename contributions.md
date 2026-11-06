@@ -8,8 +8,8 @@
 | Tinashe N Mutsvigi| N02645041Y | Tinashe789 | research |
 | Tatenda L Takaendisa| N02640628E | Leeroy-03 | Applications of containers |
 | Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Applicationsof containers|
-| Nyasha T Dzapasi| N02641039R | apriltha25th| Disadvantages of Containers |
-| Russell T Machingura| N0264024R| To be filled | Disadvantages of Containers |
+| Kabheki Ratidzai E| N02641287W | MsTee-3352 | Containers vs Virtual Machines |
+| Member 6| To be filled | To be filled | To be filled |
 | Member 7| To be filled | To be filled |  To be filled|
 | Member 8| To be filled | To be filled | To be filled |
 | Member 9| To be filled | To be filled | To be filled |
